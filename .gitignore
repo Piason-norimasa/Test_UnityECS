@@ -8,4 +8,5 @@ obj
 *.sln
 *.suo
 *.csproj
-*.vs
+*.vs/*
+.vs/Test_ECS/v16/.suo
